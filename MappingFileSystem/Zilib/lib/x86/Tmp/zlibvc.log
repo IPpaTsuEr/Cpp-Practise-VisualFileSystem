@@ -1,0 +1,15 @@
+﻿  Microsoft (R) Macro Assembler Version 14.16.27034.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: match686.asm
+  Microsoft (R) Macro Assembler Version 14.16.27034.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: inffas32.asm
+    正在创建库 x86\ZlibDllRelease\zlibwapi.lib 和对象 x86\ZlibDllRelease\zlibwapi.exp
+  正在生成代码
+  0 of 263 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  zlibvc.vcxproj -> E:\Windows\Downloads\zlib-1.2.11\contrib\vstudio\vc14\x86\ZlibDllRelease\zlibwapi.dll
